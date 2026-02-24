@@ -1,1 +1,1 @@
-CONFLICT_LINE=feature
+CONFLICT_LINE=main
