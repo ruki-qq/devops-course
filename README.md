@@ -1,2 +1,1 @@
-# devops-course
-# feature 1
+CONFLICT_LINE=feature
